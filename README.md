@@ -1,5 +1,5 @@
 # Data Analysis of Aviation Accidents
-![Description of Image](./7899977075ccc1e68892d79f6542bf34.jpg "Optional Title")
+![Burning Airplane](./7899977075ccc1e68892d79f6542bf34.jpg "Burning Airplane")
 
 ## Introduction
 This notebook aims to analyze the Aviation Accident Database & Synopses, up to 2023, to identify the lowest-risk aircraft for a company looking to diversify its portfolio by purchasing and operating airplanes for commercial and private enterprises. The goal is to provide actionable insights to the head of the new aviation division to inform their decision-making process.
