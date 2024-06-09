@@ -31,3 +31,5 @@ The Aviation Accident Database & Synopses, up to 2023 from [https://www.kaggle.c
 
 
 By analyzing this dataset, we can gain valuable insights into the safety records of different aircraft types and make informed decisions about which aircraft to purchase and operate.
+
+[View the Tableau Dashboard](https://public.tableau.com/views/AviationDataAnalysisDashboard/AVIATIONANALYSIS?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
