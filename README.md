@@ -19,7 +19,8 @@ The specific objectives of this project are:
 
 ## Data Understanding
 
-The Aviation Accident Database & Synopses, up to 2023 from [https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses](URL), contains detailed information on aviation accidents and incidents. The dataset includes variables such as:
+The Aviation Accident Database & Synopses, up to 2023 from [Kaggle](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses), contains detailed information on aviation accidents and incidents. The dataset includes variables such as:
+
 
     - Aircraft Type: The type of aircraft involved in the accident.
     
